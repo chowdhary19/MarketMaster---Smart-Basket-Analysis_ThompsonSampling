@@ -17,7 +17,7 @@ Reddit: [Connect on Reddit](https://www.reddit.com/user/SuccessfulStrain9533/)
 
 ## Overview
 This project uses the Thompson Sampling algorithm to analyze a dataset of user interactions with 10 ads over 10,000 rounds. The goal is to identify the ad with the highest click-through rate and optimize marketing strategies accordingly.
-![Formula](source/1.png)
+![Formula](Source/1.png)
 
 ## Dataset
 The dataset used in this project is `ads_ctr_optimisation.csv`, containing 10,000 user interactions over 10,000 rounds for 10 different ads.
