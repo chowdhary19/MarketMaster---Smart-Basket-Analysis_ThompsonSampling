@@ -98,6 +98,4 @@ This project demonstrates the application of the Thompson Sampling algorithm for
 The dataset and full source code have been deployed in the GitHub repository. Looking forward to positive collaborations!
 
 
-```
 
-This README file includes all necessary information, follows the specified format, and incorporates the requested logos and image from the Source folder.
